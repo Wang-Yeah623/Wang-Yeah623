@@ -9,7 +9,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🦈 **Pull Shark** · 3 PRs merged into open source totaling **388k+ ⭐**
+<br>
+
+![Pull Shark](https://img.shields.io/badge/Pull_Shark-Unlocked-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Merged PRs](https://img.shields.io/badge/Merged_PRs-3-2ea043?style=for-the-badge)
+![Stars Reached](https://img.shields.io/badge/Stars_Reached-388k%2B-f1e05a?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Wang-Yeah623?style=for-the-badge&logo=github&label=Followers&color=555555)
 
 </div>
 
@@ -64,16 +69,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ What I Work With
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Wang-Yeah623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wang-Yeah623&layout=compact&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Wang-Yeah623&theme=tokyonight&no-frame=true&column=7&margin-w=4)
-
-</div>
+- **Languages** — Go · Rust · TypeScript
+- **Practices** — Test-driven development · Conventional Commits · CI-gated review
+- **Focus** — CLI ergonomics · AI-agent tooling · Developer experience
 
 ---
 
