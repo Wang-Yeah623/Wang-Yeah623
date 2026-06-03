@@ -1,7 +1,8 @@
-> 🦈 **Pull Shark** — unlocked via 3 merged PRs across [openclaw](https://github.com/openclaw/openclaw) (376k ⭐) and [larksuite/cli](https://github.com/larksuite/cli) (12.6k ⭐).
 # Hi, I'm WJzz1 👋
 
 Patience-driven engineer who reads code carefully and writes tests before the fix.
+
+> 🦈 **Pull Shark** — unlocked via 3 merged PRs across [openclaw](...) (376k ⭐) and [larksuite/cli](...) (12.6k ⭐).
 
 ---
 
