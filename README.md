@@ -1,4 +1,4 @@
-🦈 **Pull Shark Achievement** — unlocked via 2 merged PRs to [larksuite/cli](https://github.com/larksuite/cli) (12.6k ⭐)
+> 🦈 **Pull Shark** — unlocked via 3 merged PRs across [openclaw](https://github.com/openclaw/openclaw) (376k ⭐) and [larksuite/cli](https://github.com/larksuite/cli) (12.6k ⭐).
 # Hi, I'm WJzz1 👋
 
 Patience-driven engineer who reads code carefully and writes tests before the fix.
@@ -7,28 +7,26 @@ Patience-driven engineer who reads code carefully and writes tests before the fi
 
 ## 🚀 Open Source Contributions
 
+### [openclaw/openclaw](https://github.com/openclaw/openclaw) — Personal AI assistant · ⭐ 376k
+
+- **[#89297](https://github.com/openclaw/openclaw/pull/89297)** ✅ *merged* — `docs: add ClawHub CLI page`
+  Added a documentation page for the ClawHub CLI to the project's docs.
+
+### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — "The agent that grows with you" · ⭐ 177k
+
+- **[#37161](https://github.com/NousResearch/hermes-agent/pull/37161)** 🔍 *open · in review* — `docs(readme): sync zh-CN install notes`
+  Synced the Simplified-Chinese install instructions in the README with the English version.
+
 ### [larksuite/cli](https://github.com/larksuite/cli) — Official Feishu/Lark CLI · ⭐ 12.6k
 
-The official CLI tool for Feishu/Lark, maintained by the larksuite team and shipped to AI Agents (Claude Code, Cursor, Gemini CLI).
+- **[#1054](https://github.com/larksuite/cli/pull/1054)** ✅ *merged* — `fix(contact): add actionable hint when fanout search all-fail with no API code`
+  Filled the only empty `Hint` in `shortcuts/`, so AI agents parsing the JSON error envelope get an actionable next step instead of an empty string. Includes a regression test.
 
-- **[#1054](https://github.com/larksuite/cli/pull/1054)** ✅ *merged in [v1.0.40](https://github.com/larksuite/cli/releases/tag/v1.0.40)* — `fix(contact): ...`
-- **[#1037](https://github.com/larksuite/cli/pull/1037)** ✅ *merged in [v1.0.40](https://github.com/larksuite/cli/releases/tag/v1.0.40)* — `fix(common): ...`
+- **[#1037](https://github.com/larksuite/cli/pull/1037)** ✅ *merged* — `fix(common): escape special chars in multipart form filenames`
+  Removed a custom `MultipartWriter.CreateFormFile` that bypassed the stdlib's quote escaping, fixing malformed `Content-Disposition` headers for filenames containing `"` or `\`. Covered with table-driven tests.
 
----
-
-## 🛠 Tech I work with
-
-- **Languages**: Go · Rust · TypeScript
-- **Practices**: Test-driven development · Conventional Commits · Code review with CodeRabbit
-- **Areas of interest**: CLI ergonomics · AI Agent tooling · Developer experience
-
----
-
-## 📊 GitHub
-
-![Wang-Yeah623's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wang-Yeah623&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wang-Yeah623&layout=compact&theme=tokyonight&hide_border=true)
+- **[#1136](https://github.com/larksuite/cli/pull/1136)** 🔍 *open · in review* — `docs(common): sync ParseResourceURL doc comment with new URL prefixes`
+  Kept the public doc comment in sync with the actual supported URL prefixes.
 
 ---
 
