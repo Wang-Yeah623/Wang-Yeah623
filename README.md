@@ -73,9 +73,9 @@
 
 ## 🛠️ What I Work With
 
-- **Languages** — Go · Rust · TypeScript
+- **Languages** — Go · Rust · Python · TypeScript
 - **Practices** — Test-driven development · Conventional Commits · CI-gated review
-- **Focus** — CLI ergonomics · AI-agent tooling · Developer experience
+- **Focus** — AI-agent tooling · CLI ergonomics · Developer experience
 
 ---
 
