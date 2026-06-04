@@ -14,7 +14,8 @@
 <br>
 
 ![Pull Shark](https://img.shields.io/badge/Pull_Shark-Unlocked-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Merged PRs](https://img.shields.io/badge/Merged_PRs-3-2ea043?style=for-the-badge)
+![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-Unlocked-8957e5?style=for-the-badge&logo=github&logoColor=white)
+![Merged PRs](https://img.shields.io/badge/Merged_PRs-4-2ea043?style=for-the-badge)
 ![Stars Reached](https://img.shields.io/badge/Stars_Reached-388k%2B-f1e05a?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Wang-Yeah623?style=for-the-badge&logo=github&label=Followers&color=555555)
 
